@@ -1,0 +1,48 @@
+h1{
+    color: blue;
+    font-size: 60px;
+}
+p{
+   font-size: 30px;
+}
+a{
+    color: red;
+}
+
+a:hover{
+    color: aqua;
+}
+
+a:active{
+    color: blue;
+}
+h2{
+    font-size: 40px;
+    border-left: 10px solid red;
+    border-bottom: 20px solid red;
+}
+
+.lorem{
+    text-decoration: line-through;
+}
+
+ul{
+    font-size: 30px;
+ }
+li{
+    font-size: 30px;
+ }
+h3{
+    font-size: 40px;
+    border-left: 10px solid red;
+    border-bottom: 20px solid red;
+}
+ 
+h4{
+    font-size: 40px;
+    border-left: 10px solid red;
+    border-bottom: 20px solid red;
+}
+img{
+     border: 20px solid gray;
+    }
