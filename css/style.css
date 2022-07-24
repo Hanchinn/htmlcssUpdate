@@ -46,3 +46,52 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/*start*/
+
+*,*::before,*::after{
+    box-sizing:border-box;
+}
+
+img{
+    vertical-align: middle;
+}
+
+.warp{
+    width: 1024px;
+    margin: 0 auto;
+}
+
+
+
+.course{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+
+        
+}
+.course-item{
+    border:1px solid black;
+    width: 400px;
+    margin: 20px;
+}
+
+.course-item h2{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 5px;
+    
+}
+
+.footer{
+    background:gray ;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
